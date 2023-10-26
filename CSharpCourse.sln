@@ -3,17 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypesAndVariables", "TypesAndVariables\TypesAndVariables.csproj", "{A438FE41-A6FE-4330-9122-3E0195E72EAF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TypesAndVariables", "TypesAndVariables\TypesAndVariables.csproj", "{A438FE41-A6FE-4330-9122-3E0195E72EAF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditionals", "Conditionals\Conditionals.csproj", "{722B9924-F001-427F-9A36-2A89617E0F94}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Conditionals", "Conditionals\Conditionals.csproj", "{722B9924-F001-427F-9A36-2A89617E0F94}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods", "Methods\Methods.csproj", "{108BD956-C91D-4A91-B12A-FC922D13AD83}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methods", "Methods\Methods.csproj", "{108BD956-C91D-4A91-B12A-FC922D13AD83}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{4208050B-CF9B-490F-8274-6C6AA1A55A98}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays", "Arrays\Arrays.csproj", "{4208050B-CF9B-490F-8274-6C6AA1A55A98}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops", "Loops\Loops.csproj", "{6046DD99-C39D-434D-B41A-0F66E184DD03}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loops", "Loops\Loops.csproj", "{6046DD99-C39D-434D-B41A-0F66E184DD03}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strings", "Strings\Strings.csproj", "{1569FAEC-17B4-49A8-AAFF-FF5495876FC8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strings", "Strings\Strings.csproj", "{1569FAEC-17B4-49A8-AAFF-FF5495876FC8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classes", "Classes\Classes.csproj", "{A0916A65-F492-427B-BE1D-07553B2DDAA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecapDemo1", "RecapDemo1\RecapDemo1.csproj", "{2957F3B9-CD52-4A95-9AEF-EB9BCC924D34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{F6B9B2AB-0BA7-402C-9A30-BF19F3F8C322}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +51,18 @@ Global
 		{1569FAEC-17B4-49A8-AAFF-FF5495876FC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1569FAEC-17B4-49A8-AAFF-FF5495876FC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1569FAEC-17B4-49A8-AAFF-FF5495876FC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0916A65-F492-427B-BE1D-07553B2DDAA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0916A65-F492-427B-BE1D-07553B2DDAA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0916A65-F492-427B-BE1D-07553B2DDAA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0916A65-F492-427B-BE1D-07553B2DDAA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2957F3B9-CD52-4A95-9AEF-EB9BCC924D34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2957F3B9-CD52-4A95-9AEF-EB9BCC924D34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2957F3B9-CD52-4A95-9AEF-EB9BCC924D34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2957F3B9-CD52-4A95-9AEF-EB9BCC924D34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6B9B2AB-0BA7-402C-9A30-BF19F3F8C322}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6B9B2AB-0BA7-402C-9A30-BF19F3F8C322}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6B9B2AB-0BA7-402C-9A30-BF19F3F8C322}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6B9B2AB-0BA7-402C-9A30-BF19F3F8C322}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
